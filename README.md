@@ -25,7 +25,7 @@ I'm a passionate **Software Engineer** who loves building scalable and distribut
 - 🌱 Currently learning more about **Distributed Systems**, **LLMs**, **Multimodal Models**, and **Consciousness** in AI.
 - 📫 Feel free to reach out to me on **LinkedIn** or **Email**!
 
-### 🧰 Technologies & Tools I Love
+### 🧰 Technologies & Tools
 - **Programming**: C++, Python, Go, Java, JavaScript
 - **Web & Cloud**: Docker, Kubernetes, Azure, AWS, Node.js, Django, GraphQL
 - **Databases**: MongoDB, PostgreSQL, Redis, Neo4j
